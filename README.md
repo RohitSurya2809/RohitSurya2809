@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rohit Surya
 
-**B.Tech Student | 3rd Year AI & Data Science | Aspiring Applied AI Engineer**
+**B.Tech Student | 4th Year AI & Data Science | Aspiring Applied AI Engineer**
 
 Building intelligent systems that automate workflows, power decisions, and solve real-world problems with AI.
 
@@ -56,6 +56,7 @@ I'm passionate about **Agentic AI Systems** and **AI-powered Automation**. Rathe
 
 ### 📚 **Databases & Data**
 - SQL
+- PostgreSQL
 - NoSQL
 - Data modeling for AI systems
 
@@ -63,21 +64,42 @@ I'm passionate about **Agentic AI Systems** and **AI-powered Automation**. Rathe
 
 ## 🚀 Featured Projects
 
+### 🧠 **DataOracle** — Agentic AI Data Scientist *(Flagship Project)*
+An enterprise-grade Agentic AI platform that transforms raw CSV/Excel datasets into actionable business intelligence using natural language. Users simply upload data and ask business questions, while a network of specialized AI agents collaborates to analyze data, generate machine learning pipelines, execute code securely, self-heal execution errors, and deliver explainable insights with interactive visualizations.
+
+**Why it matters:** Demonstrates advanced AI Engineering through multi-agent orchestration, automated machine learning, self-healing code execution, model persistence, and enterprise-ready AI workflows.
+
+**Tech Stack:** React, FastAPI, Python, LangChain, Pandas, NumPy, Scikit-learn, XGBoost, PyTorch, TailwindCSS, Server-Sent Events (SSE), MCP, OpenRouter, Gemini, Groq, OpenAI, Anthropic
+
+**Key Highlights:**
+- 🧠 20 specialized AI agents collaborating across the ML pipeline
+- ⚡ 70+ modular AI skills loaded dynamically based on task requirements
+- 🤖 Natural language → Automated Machine Learning workflow
+- 🔄 Self-healing execution engine with intelligent error recovery
+- 📊 Automated visualizations, KPI generation, and business insights
+- 🧩 Multi-provider LLM routing with automatic fallback mechanisms
+- 🔗 MCP integrations including GitHub, Google Drive, Kaggle, Hugging Face, PostgreSQL, Browser Automation, and more
+- 💾 Persistent ML models for future inference and predictions
+
+**Focus Areas:** Agentic AI • Multi-Agent Systems • AutoML • LLM Orchestration • Machine Learning • AI Engineering • Full Stack AI
+
+---
+
 ### 🤖 **Ops Agent** — AI Operations & Automation Agent
-An intelligent agent system that autonomously handles operational workflows using AI-driven decision-making. The system plans tasks, interacts with tools and APIs, executes multi-step processes, and includes reliability & error handling.
+An intelligent agent system that autonomously handles operational workflows using AI-driven decision-making. The system plans tasks, interacts with tools and APIs, executes multi-step processes, and includes reliability and robust error handling.
 
-**Why it matters:** Demonstrates practical agentic AI architecture with real-world workflow automation.
+**Why it matters:** Demonstrates practical agentic AI architecture for autonomous workflow automation and operational intelligence.
 
-**Tech Stack:** Python, LLMs, API integration, task orchestration
+**Tech Stack:** Python, LLMs, API Integration, Task Orchestration
 
-**Focus Areas:** Agentic AI • Automation Systems • Workflow Replacement
+**Focus Areas:** Agentic AI • Workflow Automation • AI Operations
 
 ---
 
 ### 🌾 **Uzhavar** — Crop Recommendation System
-An intelligent ML system that recommends optimal crops based on soil parameters and environmental conditions. Provides data-driven decision support for farmers to maximize yield and sustainability.
+An intelligent machine learning system that recommends optimal crops based on soil parameters and environmental conditions, helping farmers make data-driven agricultural decisions.
 
-**Why it matters:** Real-world application of ML for agricultural impact.
+**Why it matters:** Demonstrates the practical application of machine learning for sustainable agriculture.
 
 **Tech Stack:** Python, Machine Learning, Data Analysis
 
@@ -96,16 +118,6 @@ An AI-powered utility system for intelligent file management and system resource
 
 ---
 
-### 🎬 **Video Recommendation System** — Behavior-Aware Engine
-A personalized recommendation engine that analyzes user interaction behavior (replayed segments, engagement patterns) to suggest relevant content using intelligent modeling techniques.
-
-**Why it matters:** Shows understanding of user behavior modeling and real-world recommendation systems.
-
-**Tech Stack:** Python, ML algorithms, behavioral analysis
-
-**Focus Areas:** Recommendation Systems • User Behavior Modeling
-
----
 
 ## 📈 GitHub Stats
 
@@ -170,4 +182,4 @@ If you find my work interesting or useful, please consider:
 
 ---
 
-*Last updated: January 2026*
+*Last updated: July 2026*
